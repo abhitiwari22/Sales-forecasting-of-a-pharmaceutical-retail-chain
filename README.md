@@ -6,7 +6,7 @@ The retailer has provided you with historical sales data and is looking to forec
 City records ▶
 1 : Kolkata, 2 : Other, 3 : Jaipur, 4: Mumbai, 5 : Delhi, 6: Chennai, 7 : Bangalore, 8: Hyderabad, 9 : Ahmedabad, 10 : Lucknow
 
-# ![alt text]# <https://github.com/abhitiwari22/Sales-forecasting-of-a-pharmaceutical-retail-chain/blob/main/download.mp4>
+# ![alt text]<https://github.com/abhitiwari22/Sales-forecasting-of-a-pharmaceutical-retail-chain/blob/main/download.mp4>
 
 
 # training data: https://drive.google.com/drive/folders/1Lq4GkdLgJIgz8-Rar8Kcd3UiZV6L-N_Z?usp=sharing
